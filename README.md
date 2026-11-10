@@ -1,6 +1,6 @@
-# FineMediTrack site
+# FineMediTrack
 
-Privacy policy and support pages for the FineMediTrack app, served with GitHub Pages:
+Privacy policy and support pages for the FineMediTrack app:
 
-- https://furkanaltaca.github.io/finemeditrack-site/privacy/
-- https://furkanaltaca.github.io/finemeditrack-site/support/
+- https://finemeditrack.github.io/privacy/
+- https://finemeditrack.github.io/support/
